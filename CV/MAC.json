@@ -1,0 +1,166 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "María Alejandra",
+      "surnames": "Bohórquez Martheyn",
+      "title": "Code/Javascript/books/fantasy/English/travel",
+      "description": "Desarrolladora de software con experiencia Front-end y Back-end en tecnologías como ReactJS, Angular, NodeJS, Java, SQL y en bases de datos como Oracle, MySQL y MongoDB. Autodidacta en el aprendizaje y con gran curiosidad por el mundo del desarrollo. Amo el trabajo en equipo, fomento el buen ambiente laboral y siempre tengo la escucha como prioridad.",
+      "avatar": {
+        "alt": "foto.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/e804e41a-c5ce-4020-a364-9560f3f1a7de_foto.jpg"
+      },
+      "location": {
+        "notes": "Cúcuta, Colombia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://github.com/mariaalejandrabm0703"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/mariaalejandrabm0703"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/MaraBohrquez19"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "En mi tiempo libre amo leer libros de fantasía",
+        "fact": "De Brandon Sanderson como Elantris, El aliento de los dioses, El imperio final y la saga de Escuadrón."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ceiba Software",
+          "image": {
+            "alt": "Ceiba Software.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/ff357c7f-84b3-4c5e-982a-5a1216a9fdbe_ceiba-software.png"
+          },
+          "URL": "https://www.ceiba.com.co/"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer ReactJS y NodeJS",
+            "startDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Analysis, design, development and testing of a software solution."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://github.com/mariaalejandrabm0703"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
